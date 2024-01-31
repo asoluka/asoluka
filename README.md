@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Tochukwu!
+# Hi, I'm Tochukwu (Tee)!
 
 ## About
 
