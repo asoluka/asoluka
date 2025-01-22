@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 📍&nbsp; Lagos, Nigeria.
 
 ## Experience: 
+🟢&nbsp; Software Engineering Fellow at Brave.
 
 🔴&nbsp; Software Engineering at Checkin.
 
@@ -56,6 +57,16 @@ Here are some ideas to get you started:
 🔹&nbsp;  **Testing:** Jest.
 
 🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
+
+
+## Projects (Brave): 
+
+🔹&nbsp;  **Cohut**
+Cohut is a streamlined, user-friendly platform designed to help solopreneurs, educators, and organizations launch and manage small—to medium-sized cohort-based learning programs easily and affordably.
+
+🔹&nbsp;  **Preview AI**
+Preview lets employers watch candidates do the job before hiring them using AI-powered real work simulations that match the company's customer interactions, internal processes, tools, and systems, covering edge cases and anticipated problems.
+
 
 ## Contact: 
 
