@@ -24,16 +24,14 @@ Here are some ideas to get you started:
 
 📍&nbsp; Lagos, Nigeria.
 
-## Experience: 
-🟢&nbsp; Software Engineering Fellow at Brave.
 
-🔴&nbsp; Software Engineering at Checkin.
+## Projects (Brave): 
 
-🟠&nbsp; Software Engineering at VEA.
+🔹&nbsp;  **Cohut**
+Cohut is a streamlined, user-friendly platform designed to help solopreneurs, educators, and organizations launch and manage small—to medium-sized cohort-based learning programs easily and affordably.
 
-🟣&nbsp; Programs Director at DYEN (Web Development).
-
-🟢&nbsp; Course Creator at Ustacky.
+🔹&nbsp;  **Preview AI**
+Preview lets employers watch candidates do the job before hiring them using AI-powered real work simulations that match the company's customer interactions, internal processes, tools, and systems, covering edge cases and anticipated problems.
 
 
 ## Skills: 
@@ -59,13 +57,16 @@ Here are some ideas to get you started:
 🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
 
 
-## Projects (Brave): 
+## Experience: 
+🟢&nbsp; Software Engineering Fellow at Brave.
 
-🔹&nbsp;  **Cohut**
-Cohut is a streamlined, user-friendly platform designed to help solopreneurs, educators, and organizations launch and manage small—to medium-sized cohort-based learning programs easily and affordably.
+🔴&nbsp; Software Engineering at Checkin.
 
-🔹&nbsp;  **Preview AI**
-Preview lets employers watch candidates do the job before hiring them using AI-powered real work simulations that match the company's customer interactions, internal processes, tools, and systems, covering edge cases and anticipated problems.
+🟠&nbsp; Software Engineering at VEA.
+
+🟣&nbsp; Programs Director at DYEN (Web Development).
+
+🟢&nbsp; Course Creator at Ustacky.
 
 
 ## Contact: 
