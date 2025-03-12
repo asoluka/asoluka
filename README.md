@@ -54,6 +54,8 @@ Preview lets employers watch candidates do the job before hiring them using AI-p
 
 🔹&nbsp;  **Testing:** Jest.
 
+🔹&nbsp;  **Others:** Typescript, Rust, Next.js.
+
 🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
 
 
