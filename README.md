@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About
 
-👨‍💻&nbsp; Successfully trained over 300 devs personally and 20,000 with different organizations.
+👨‍💻&nbsp; Successfully trained over 20,000 entry-level engineers both personally and with organizations.
 
 📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCJTN5fDHo5l3xKgS3OJ8t3A?view_as=subscriber)
 
