@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCJTN5fDHo5l3xKgS3OJ8t3A?view_as=subscriber)
 
+📹&nbsp; Writer at [Freecodecamp](https://www.freecodecamp.org/news/author/sleekcodes/)
+
 📍&nbsp; Lagos, Nigeria.
 
 
@@ -58,13 +60,17 @@ Preview lets employers watch candidates do the job before hiring them using AI-p
 
 🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
 
+🔹&nbsp; ** Web3 (Solana, Rust, and Anchor - Beginner)
+
+🔹&nbsp; ** OpenAI SDK
+
 
 ## Experience: 
 🟢&nbsp; Software Engineering Fellow at Brave.
 
-🔴&nbsp; Software Engineering at Checkin.
+🔴&nbsp; Software Engineering at Checkin - USA.
 
-🟠&nbsp; Software Engineering at VEA.
+🟠&nbsp; Software Engineering at VEA - USA.
 
 🟣&nbsp; Programs Director at DYEN (Web Development).
 
@@ -72,11 +78,9 @@ Preview lets employers watch candidates do the job before hiring them using AI-p
 
 
 ## Contact: 
-
-📘&nbsp; [Portfolio]()
-
 📫&nbsp; How to contact me:
 
 - stracool9@gmail.com
+📘&nbsp; [LinkedIn](https://www.linkedin.com/in/asoluka/)
 
 ⚡&nbsp; Fun Fact: I play all major musical instruments but only in my mind for now!
