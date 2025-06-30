@@ -80,7 +80,7 @@ Preview lets employers watch candidates do the job before hiring them using AI-p
 ## Contact: 
 📫&nbsp; How to contact me:
 
-- stracool9@gmail.com
+- tochukwuaustinasoluka@gmail.com
 📘&nbsp; [LinkedIn](https://www.linkedin.com/in/asoluka/)
 
 ⚡&nbsp; Fun Fact: I play all major musical instruments but only in my mind for now!
