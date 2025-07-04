@@ -1,86 +1,77 @@
-### Hi there 👋
+# 👋 Hi, I'm Tochukwu Asoluka (aka Tee)
 
-<!--
-**asoluka/asoluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer | Technical Leader | Educator | Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
 
-# Hi, I'm Tochukwu (Tee)!
+I'm a passionate software engineer with **8+ years of experience** building scalable web applications, leading engineering teams, and mentoring the next generation of developers. I’ve trained over **20,000 entry-level engineers**, both individually and through organizational initiatives, and have contributed to impactful startups across **EdTech**, **HRTech**, and **AI**.
 
-## About
+I thrive in fast-paced environments where thoughtful architecture, clean code, and mentorship intersect.
 
-👨‍💻&nbsp; Successfully trained over 20,000 entry-level engineers both personally and with organizations.
+📍 Based in **Lagos, Nigeria**, open to **remote or relocation opportunities**.
 
-📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCJTN5fDHo5l3xKgS3OJ8t3A?view_as=subscriber)
+---
 
-📹&nbsp; Writer at [Freecodecamp](https://www.freecodecamp.org/news/author/sleekcodes/)
+## 🧠 Technical Skills
 
-📍&nbsp; Lagos, Nigeria.
+### Frontend
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries**: React.js, Next.js, jQuery
+- **State Management**: Zustand, Redux, Redux Toolkit
+- **Styling**: Tailwind, Bootstrap, Material UI, Ant Design
 
+### Backend
+- **Languages**: Node.js, TypeScript, Rust (beginner)
+- **Frameworks**: Express.js
+- **Authentication**: JWT, Session-based Auth
+- **Databases**: MongoDB (Mongoose), MySQL (Sequelize)
+- **Testing**: Jest, unit & integration tests
 
-## Projects (Brave): 
+### Dev Practices
+- Git, Agile (sprints, standups, code reviews, user stories)
+- OpenAI SDK, REST APIs, MVC architecture
 
-🔹&nbsp;  **Cohut**
-Cohut is a streamlined, user-friendly platform designed to help solopreneurs, educators, and organizations launch and manage small—to medium-sized cohort-based learning programs easily and affordably.
+### Web3 (Beginner)
+- Solana, Rust, Anchor
 
-🔹&nbsp;  **Preview AI**
-Preview lets employers watch candidates do the job before hiring them using AI-powered real work simulations that match the company's customer interactions, internal processes, tools, and systems, covering edge cases and anticipated problems.
+---
 
+## 🧩 Selected Projects
 
-## Skills: 
+### 🔹 [Cohut](https://cohut.co)
+A no-frills cohort-based learning platform designed for solopreneurs, educators, and organizations to launch and manage learning programs affordably. Think “Carrd for Cohort-based Education.”
 
-🔹&nbsp;  **Front End Languages** HTML, CSS, and JavaScript.
+### 🔹 Preview AI
+An AI-powered simulation tool that lets employers **watch candidates do the job before hiring**, tailored to real-world customer interactions, internal tools, and edge-case scenarios.
 
-🔸&nbsp;  **Front End Framework/Libraries:** React.js, Next.js and jQuery.
+---
 
-🔹&nbsp;  **State Management:** Zustand, Redux, and Redux Toolkit.
+## 🧭 Experience
 
-🔸&nbsp;  **CSS Libraries:** Bootstrap, Tailwind, Antd, and Material UI.
+- 🟢 **Software Engineering Fellow – Brave**
+- 🔴 **Software Engineer – Checkin (USA)**
+- 🟠 **Software Engineer – VEA (USA)**
+- 🟣 **Programs Director – DYEN** (Trained 10,000+ African youth in Web Dev)
+- 🟢 **Course Creator – Ustacky**
 
-🔹&nbsp;  **Authentication:** JSON Web Tokens, and sessions.
+---
 
-🔸&nbsp;  **Back End Language:** Node.js.
+## 📢 Content & Community
 
-🔹&nbsp;  **Back End Frameworks:** Express.js.
+- 🎥 **[YouTube](https://www.youtube.com/channel/UCJTN5fDHo5l3xKgS3OJ8t3A?view_as=subscriber)** – Coding content, tutorials & dev tips
+- ✍️ **[FreeCodeCamp Contributor](https://www.freecodecamp.org/news/author/sleekcodes/)** – Technical writing on web development and engineering practices
+- 🧑🏽‍🏫 Community speaker and mentor
 
-🔸&nbsp;  **Databases:** MySQL (Sequelize), MongoDB (Mongoose).
+---
 
-🔹&nbsp;  **Testing:** Jest.
+## 📬 Get In Touch
 
-🔹&nbsp;  **Others:** Typescript, Rust, Next.js.
+- ✉️ **tochukwuaustinasoluka@gmail.com**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/asoluka/)**
 
-🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
+---
 
-🔹&nbsp; ** Web3 (Solana, Rust, and Anchor - Beginner)
-
-🔹&nbsp; ** OpenAI SDK
-
-
-## Experience: 
-🟢&nbsp; Software Engineering Fellow at Brave.
-
-🔴&nbsp; Software Engineering at Checkin - USA.
-
-🟠&nbsp; Software Engineering at VEA - USA.
-
-🟣&nbsp; Programs Director at DYEN (Web Development).
-
-🟢&nbsp; Course Creator at Ustacky.
-
-
-## Contact: 
-📫&nbsp; How to contact me:
-
-- tochukwuaustinasoluka@gmail.com
-📘&nbsp; [LinkedIn](https://www.linkedin.com/in/asoluka/)
-
-⚡&nbsp; Fun Fact: I play all major musical instruments but only in my mind for now!
+## ⚡ Fun Fact  
+I can play every major musical instrument — **but only in my mind (for now).**
