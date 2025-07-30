@@ -3,6 +3,8 @@
 ### Senior Software Engineer | Technical Leader | Educator | Builder
 
 ---
+A complete stack engineer - Web2, Web3, AI.
+---
 
 ## 👨‍💻 About Me
 
